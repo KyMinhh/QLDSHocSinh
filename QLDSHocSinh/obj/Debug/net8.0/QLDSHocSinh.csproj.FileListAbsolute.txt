@@ -1,0 +1,14 @@
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\bin\Debug\net8.0\QLDSHocSinh.exe
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\bin\Debug\net8.0\QLDSHocSinh.deps.json
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\bin\Debug\net8.0\QLDSHocSinh.runtimeconfig.json
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\bin\Debug\net8.0\QLDSHocSinh.dll
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\bin\Debug\net8.0\QLDSHocSinh.pdb
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.AssemblyInfoInputs.cache
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.AssemblyInfo.cs
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.dll
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\refint\QLDSHocSinh.dll
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.pdb
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\QLDSHocSinh.genruntimeconfig.cache
+C:\Users\KyMinh\source\repos\QLDSHocSinh\QLDSHocSinh\obj\Debug\net8.0\ref\QLDSHocSinh.dll

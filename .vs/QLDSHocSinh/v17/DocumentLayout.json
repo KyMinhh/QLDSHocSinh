@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|c:\\users\\kyminh\\source\\repos\\qldshocsinh\\qldshocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|solutionrelative:qldshocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|c:\\users\\kyminh\\source\\repos\\qldshocsinh\\qldshocsinh\\entities\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|solutionrelative:qldshocsinh\\entities\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|c:\\users\\kyminh\\source\\repos\\qldshocsinh\\qldshocsinh\\qldshocsinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5D8B939-7793-4D23-99E1-3D616106288D}|QLDSHocSinh\\QLDSHocSinh.csproj|solutionrelative:qldshocsinh\\qldshocsinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLDSHocSinh",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\QLDSHocSinh.csproj",
+              "RelativeDocumentMoniker": "QLDSHocSinh\\QLDSHocSinh.csproj",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\QLDSHocSinh.csproj",
+              "RelativeToolTip": "QLDSHocSinh\\QLDSHocSinh.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T04:05:12.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\Entities\\HocSinh.cs",
+              "RelativeDocumentMoniker": "QLDSHocSinh\\Entities\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\Entities\\HocSinh.cs",
+              "RelativeToolTip": "QLDSHocSinh\\Entities\\HocSinh.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:33:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\Program.cs",
+              "RelativeDocumentMoniker": "QLDSHocSinh\\Program.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\source\\repos\\QLDSHocSinh\\QLDSHocSinh\\Program.cs",
+              "RelativeToolTip": "QLDSHocSinh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:33:03.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
